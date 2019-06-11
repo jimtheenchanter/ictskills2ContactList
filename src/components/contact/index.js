@@ -11,7 +11,7 @@ class Contact extends Component {
                     <img
                         className="card-img-tag center "
                         alt={this.props.contact.name}
-                        src="{this.props.contact.picture.thumbnail}"
+                        src={this.props.contact.picture.thumbnail}
                     />
                     <div className="card-body">
                         <h5 className="card-title ">

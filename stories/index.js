@@ -1,7 +1,7 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
+import { action } from '@storybook/addon-actions';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
-
 
 import Header from '../src/components/header/'
 import FilterControls from '../src/components/filterControls/'
@@ -16,7 +16,7 @@ const sample = {
 }
 
 storiesOf("Contact List App/Header", module).add("default", () => (
-    <Header noContacts={10} />
+    <Header noContacts={4} />
 ));
 
 storiesOf("Contact List App/Filter Controls", module).add("default", () => (
@@ -24,7 +24,7 @@ storiesOf("Contact List App/Filter Controls", module).add("default", () => (
 ));
 
 storiesOf("Contact List App/Contact", module).add("default", () => (
-    <Contact contact={sample}/>
+    <Contact contact={sample} deleteHandler={action('Delete confirmed') }/>
 ));
 
 storiesOf("Contact List App/Contact List", module).add("default", () => {

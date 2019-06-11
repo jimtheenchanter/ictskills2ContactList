@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7438c672-91aa-47ad-b6db-6fc35c5391f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/contact/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contact/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contactList/contactList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contactList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/filterControls/filterControls.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/filterControls/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/filterControls/filterControls.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/filterControls/filterControls.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/filterControls/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/filterControls/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stories/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/stories/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/contact/contact.css">
           <provider selected="true" editor-type-id="text-editor" />
@@ -44,12 +40,23 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/filterControls/filterControls.css">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/filterControls/index.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -75,8 +82,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stories/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="407">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -101,8 +108,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/components/contact/index.js" />
         <option value="$PROJECT_DIR$/src/components/contactList/index.js" />
-        <option value="$PROJECT_DIR$/src/components/filterControls/index.js" />
         <option value="$PROJECT_DIR$/src/components/header/index.js" />
+        <option value="$PROJECT_DIR$/src/components/filterControls/index.js" />
+        <option value="$PROJECT_DIR$/src/components/filterControls/filterControls.css" />
         <option value="$PROJECT_DIR$/stories/index.js" />
       </list>
     </option>
@@ -134,6 +142,19 @@
             <path>
               <item name="contactList" type="b2602c69:ProjectViewProjectNode" />
               <item name="contactList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contactList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contactList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="filterControls" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="contactList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="contactList" type="462c0819:PsiDirectoryNode" />
               <item name="stories" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -143,6 +164,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Lab_02_DataFlow" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -175,12 +197,13 @@
       <updated>1559908309222</updated>
       <workItem from="1559908319691" duration="2792000" />
       <workItem from="1559940015489" duration="599000" />
-      <workItem from="1560242637413" duration="1512000" />
+      <workItem from="1560242637413" duration="2120000" />
+      <workItem from="1560247012102" duration="208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4903000" />
+    <option name="totallyTimeSpent" value="5719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5746" y="-14" width="4348" height="2368" extended-state="6" />
@@ -199,8 +222,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50117093" side_tool="true" visible="true" weight="0.08036574" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49882904" visible="true" weight="0.08036574" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014052" side_tool="true" visible="true" weight="0.08036574" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49859485" visible="true" weight="0.08036574" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,12 +245,6 @@
     <entry file="file://$PROJECT_DIR$/src/components/contactList/index.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/filterControls/filterControls.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/filterControls/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/header/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="592">
@@ -244,10 +261,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/filterControls/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="16" column="62" selection-start-line="16" selection-start-column="62" selection-end-line="16" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/filterControls/filterControls.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/stories/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="407">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>

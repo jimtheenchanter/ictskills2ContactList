@@ -1,6 +1,6 @@
 import React, { Fragment } from "react";
 import { withRouter } from "react-router-dom";
-import api from "../dataStore/stubAPI"; // NEW
+import api from "../dataStore/stubAPI";
 import ContactPublic from "../components/contactPublic/";
 import ContactPrivate from "../components/contactPrivate/";
 

@@ -8,6 +8,7 @@ import App from "./App";
 import ContactPage from "./components/contactPage";
 import ContactPrivateDetails from '../src/components/contactPrivate/';
 
+
 class Router extends Component {
     componentDidMount() {
         request.get("https://randomuser.me/api/?results=50").end((error, res) => {
